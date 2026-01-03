@@ -1,4 +1,4 @@
-#BANK MANAGEMENT SYSTEM
+<h1> 🏛️ BANK MANAGEMENT SYSTEM </h1>
 
 The Bank Management System is a Java-based desktop application developed using NetBeans (Apache) that simulates the essential operations of a real-world banking system. The project focuses on managing customer accounts and performing basic banking transactions in a structured, secure, and efficient manner.
 
