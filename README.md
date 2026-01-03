@@ -27,10 +27,10 @@ The project is developed entirely in Java using the NetBeans IDE (Apache), provi
                             <li> Logical separation of operations </li>
 
 <h2> TECHNOLOGIES & TOOLS USED </h2>
-<li> <h3> Programming language </h3>: Java </li>
-<li> <h3> IDE </h3>: Netbeans (Apache) </li>
-<li> <h3> Concepts Applied </h3>: -> Object-Oriented Programming (OOP) </li>
-                             -> Classes and Objects
-                             -> Inheritance and Encapsulation
-                             -> Exception Handling
-                             -> Control Structures and Loops
+<ul> <h3> Programming language </h3> Java </ul>
+<ul> <h3> IDE </h3>: Netbeans (Apache) </ul>
+<ul> <h3> Concepts Applied </h3>: <li> Object-Oriented Programming (OOP) </li>
+                            <li> Classes and Objects </li>
+                             <li> Inheritance and Encapsulation </li>
+                             <li> Exception Handling </li>
+                             <li></li> Control Structures and Loops </li>
