@@ -10,27 +10,40 @@ In modern banking, automation plays a crucial role in maintaining accuracy, secu
 The project is developed entirely in Java using the NetBeans IDE (Apache), providing a stable development environment and clean project organization.
 
 <h2> KEY FEATURES </h2>
-<ul> <h3> Customer Account Management </h3> <li> Create new bank accounts </li>
+<ul> <h3>✔️Customer Account Management </h3> <li> Create new bank accounts </li>
                                    <li> Store customer details securely </li>
                                   <li> Update and manage account information </li> </ul>
 
-<ul> <h3> Transaction Management </h3> <li> Deposit money into accounts </li>
+<ul> <h3>✔️Transaction Management </h3> <li> Deposit money into accounts </li>
                              <li> Withdraw money with balance validation </li>
                              <li> Check account balance in real time </li> </ul>
 
-<ul> <h3> System Functionality </h3> <li> Menu-driven interface for easy navigation </li>
+<ul> <h3>✔️System Functionality </h3> <li> Menu-driven interface for easy navigation </li>
                           <li> Proper validation to prevent invalid operations </li>
                            <li> Structured and readable codebase </li> </ul>
 
-<h3> Security & Reliability </h3> <li> Controlled access to account operations </li>
+<ul> <h3>✔️Security & Reliability </h3> <li> Controlled access to account operations </li>
                             <li> Error handling to avoid invalid inputs </li>
                             <li> Logical separation of operations </li>
 
-<h2> TECHNOLOGIES & TOOLS USED </h2>
-<ul> <h3> Programming language </h3> Java </ul>
-<ul> <h3> IDE </h3>: Netbeans (Apache) </ul>
-<ul> <h3> Concepts Applied </h3>: <li> Object-Oriented Programming (OOP) </li>
-                            <li> Classes and Objects </li>
-                             <li> Inheritance and Encapsulation </li>
-                             <li> Exception Handling </li>
-                             <li></li> Control Structures and Loops </li>
+<h2> 🔧TECHNOLOGIES & TOOLS USED</h2>
+
+<h3>💻Programming Language</h3>
+<ul>
+  <li>Java</li>
+</ul>
+
+<h3>🛠️IDE</h3>
+<ul>
+  <li>NetBeans (Apache)</li>
+</ul>
+
+<h3>🧠Concepts Applied</h3>
+<ul>
+  <li>Object-Oriented Programming (OOP)</li>
+  <li>Classes and Objects</li>
+  <li>Inheritance and Encapsulation</li>
+  <li>Exception Handling</li>
+  <li>Control Structures and Loops</li>
+</ul>
+
