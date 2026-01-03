@@ -1,8 +1,10 @@
 <h1> 🏛️ BANK MANAGEMENT SYSTEM 🏛️ </h1>
 
-The Bank Management System is a Java-based desktop application developed using NetBeans (Apache) that simulates the essential operations of a real-world banking system. The project focuses on managing customer accounts and performing basic banking transactions in a structured, secure, and efficient manner.
+The Bank Management System is a Java-based desktop application developed using NetBeans (Apache) that simulates essential operations of a real-world banking system. The project focuses on managing customer accounts and performing basic banking and ATM transactions in a structured, secure, and efficient manner.
 
-This application is designed to demonstrate core Java programming, object-oriented principles, and modular application development, making it ideal for academic use, learning purposes, and beginner-level Java projects.
+This application allows users to perform core financial activities such as balance enquiry, cash withdrawal, cash deposit, mini statement viewing, and fast cash transactions, ensuring real-time balance updates and reliable transaction handling.
+
+Designed with a strong emphasis on simplicity, accuracy, and efficiency, the system demonstrates the practical implementation of core Java programming, object-oriented principles, and modular application development. The project is ideal for academic submissions, learning purposes, and beginner-level Java projects, providing a clear understanding of basic banking system functionality.
 
 <h2> PROJECT OVERVIEW </h2>
 In modern banking, automation plays a crucial role in maintaining accuracy, security, and efficiency. This Bank Management System automates routine banking tasks such as account creation, balance management, and transaction handling. The system ensures smooth data flow and minimizes manual errors by following a well-structured Java application architecture.
