@@ -22,14 +22,14 @@ The project is developed entirely in Java using the NetBeans IDE (Apache), provi
                           <li> Proper validation to prevent invalid operations </li>
                            <li> Structured and readable codebase </li> </ul>
 
--> <h3> Security & Reliability </h3> <li> Controlled access to account operations </li>
+<h3> Security & Reliability </h3> <li> Controlled access to account operations </li>
                             <li> Error handling to avoid invalid inputs </li>
                             <li> Logical separation of operations </li>
 
 <h2> TECHNOLOGIES & TOOLS USED </h2>
-<h3> Programming language </h3>: Java
-<h3> IDE </h3>: Netbeans (Apache)
-<h3> Concepts Applied </h3>: -> Object-Oriented Programming (OOP)
+<li> <h3> Programming language </h3>: Java </li>
+<li> <h3> IDE </h3>: Netbeans (Apache) </li>
+<li> <h3> Concepts Applied </h3>: -> Object-Oriented Programming (OOP) </li>
                              -> Classes and Objects
                              -> Inheritance and Encapsulation
                              -> Exception Handling
