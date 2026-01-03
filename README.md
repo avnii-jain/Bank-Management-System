@@ -1,4 +1,4 @@
-<h1> 🏛️ BANK MANAGEMENT SYSTEM </h1>
+<h1> 🏛️ BANK MANAGEMENT SYSTEM 🏛️ </h1>
 
 The Bank Management System is a Java-based desktop application developed using NetBeans (Apache) that simulates the essential operations of a real-world banking system. The project focuses on managing customer accounts and performing basic banking transactions in a structured, secure, and efficient manner.
 
@@ -10,23 +10,23 @@ In modern banking, automation plays a crucial role in maintaining accuracy, secu
 The project is developed entirely in Java using the NetBeans IDE (Apache), providing a stable development environment and clean project organization.
 
 <h2> KEY FEATURES </h2>
-<ul> <h3>✔️Customer Account Management </h3> <li> Create new bank accounts </li>
+<ul> <h3>✔️ Customer Account Management </h3> <li> Create new bank accounts </li>
                                    <li> Store customer details securely </li>
                                   <li> Update and manage account information </li> </ul>
 
-<ul> <h3>✔️Transaction Management </h3> <li> Deposit money into accounts </li>
+<ul> <h3>✔️ Transaction Management </h3> <li> Deposit money into accounts </li>
                              <li> Withdraw money with balance validation </li>
                              <li> Check account balance in real time </li> </ul>
 
-<ul> <h3>✔️System Functionality </h3> <li> Menu-driven interface for easy navigation </li>
+<ul> <h3>✔️ System Functionality </h3> <li> Menu-driven interface for easy navigation </li>
                           <li> Proper validation to prevent invalid operations </li>
                            <li> Structured and readable codebase </li> </ul>
 
-<ul> <h3>✔️Security & Reliability </h3> <li> Controlled access to account operations </li>
+<ul> <h3>✔️ Security & Reliability </h3> <li> Controlled access to account operations </li>
                             <li> Error handling to avoid invalid inputs </li>
                             <li> Logical separation of operations </li>
 
-<h2> 🔧TECHNOLOGIES & TOOLS USED</h2>
+<h2> 🔧 TECHNOLOGIES & TOOLS USED</h2>
 
 <h3>💻Programming Language</h3>
 <ul>
