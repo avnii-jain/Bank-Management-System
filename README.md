@@ -10,21 +10,21 @@ In modern banking, automation plays a crucial role in maintaining accuracy, secu
 The project is developed entirely in Java using the NetBeans IDE (Apache), providing a stable development environment and clean project organization.
 
 <h2> KEY FEATURES </h2>
- -> <h3> Customer Account Management </h3> -- Create new bank accounts
-                                   Store customer details securely
-                                   Update and manage account information
+<ul> <h3> Customer Account Management </h3> <li> Create new bank accounts </li>
+                                   <li> Store customer details securely </li>
+                                  <li> Update and manage account information </li> </ul>
 
--> <h3> Transaction Management </h3> -- Deposit money into accounts
-                             Withdraw money with balance validation
-                             Check account balance in real time
+<ul> <h3> Transaction Management </h3> <li> Deposit money into accounts </li>
+                             <li> Withdraw money with balance validation </li>
+                             <li> Check account balance in real time </li> </ul>
 
--> <h3> System Functionality </h3> -- Menu-driven interface for easy navigation
-                           Proper validation to prevent invalid operations
-                           Structured and readable codebase
+<ul> <h3> System Functionality </h3> <li> Menu-driven interface for easy navigation </li>
+                          <li> Proper validation to prevent invalid operations </li>
+                           <li> Structured and readable codebase </li> </ul>
 
--> <h3> Security & Reliability </h3> -- Controlled access to account operations
-                             Error handling to avoid invalid inputs
-                             Logical separation of operations
+-> <h3> Security & Reliability </h3> <li> Controlled access to account operations </li>
+                            <li> Error handling to avoid invalid inputs </li>
+                            <li> Logical separation of operations </li>
 
 <h2> TECHNOLOGIES & TOOLS USED </h2>
 <h3> Programming language </h3>: Java
